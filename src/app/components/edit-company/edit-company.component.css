@@ -1,0 +1,42 @@
+.parent-div-company
+{
+    justify-content: center;
+    width: 80%; 
+    height: 550px; 
+    border: 2px solid #5C258D;
+    border-radius: 1.5%;
+    color: #5C258D;
+}
+    
+.child-div-company
+{
+    margin-top: 40px;
+}
+
+.addButton 
+{
+    background: #5C258D; 
+    background: -webkit-linear-gradient(to right, #5C258D, #4bc0c8); 
+    background: linear-gradient(to right, #5C258D, #4bc0c8);
+    border-radius: 500px;
+    color: white;
+    padding: 2px 30px;
+    float: right;
+    margin-top: -55px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+.backButton 
+{
+    background: #5C258D; 
+    background: -webkit-linear-gradient(to right, #5C258D, #4bc0c8); 
+    background: linear-gradient(to right, #5C258D, #4bc0c8);
+    border-radius: 500px;
+    color: white;
+    padding: 2px 30px;
+    float: right;
+    margin-top: -55px;
+    margin-right: 200px;
+    cursor: pointer;
+}

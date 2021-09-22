@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empresasfreddy-6567a": {
+      "hosting": {
+        "ExamenPracticoFreddyBantrab": [
+          "empresasfreddy-6567a"
+        ]
+      }
+    }
+  }
+}

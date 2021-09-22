@@ -1,0 +1,32 @@
+.parent-div-manage
+{
+    justify-content: center;
+    width: 80%; 
+    height: 650px; 
+    border: 2px solid #5C258D;
+    border-radius: 1.5%;
+}
+    
+.child-div-manage
+{
+    margin-top: 40px;
+    align-self: center;
+    padding: 1rem;
+    background: #5C258D; 
+    background: -webkit-linear-gradient(to right, #5C258D 25%, #4bc0c8, #fff); 
+    background: linear-gradient(to right, #5C258D 25%, #4bc0c8, #fff);
+}
+
+.addButton 
+{
+    background: #5C258D; 
+    background: -webkit-linear-gradient(to right, #5C258D, #4bc0c8); 
+    background: linear-gradient(to right, #5C258D, #4bc0c8);
+    border-radius: 500px;
+    color: white;
+    padding: 2px 30px;
+    float: right;
+    margin-top: -55px;
+    margin-right: 50px;
+    cursor: pointer;
+}
