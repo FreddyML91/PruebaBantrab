@@ -1,12 +1,12 @@
 <div align="center" class="container mt-5">
     <div class="parent-div-company">
         <br/>
-        <form [formGroup]="createCompany" (ngSubmit)="agregarEmpresa()">
+        <form [formGroup]="createCompany" (ngSubmit)="agregarEmpresaAPI()">
             <div class="child-div-company">
                 <h2 style="text-align: left; font-weight: bold; margin-left: 40px; color: #5C258D;">Crear empresa</h2>
                 <p style="text-align: left; margin-left: 40px; color: #5C258D; font-size: 11px;">Todos los campos son obligatorios</p>
                 <button type="text" class="backButton" routerLink="/list-companys">Cancelar</button>
-                <button type="submit" class="addButton" routerLink="/create-company">Guardar</button>
+                <button type="submit" class="addButton">Guardar</button>
             </div>
             <div class="col-md-12 mt-5">
                 <div class="row">
